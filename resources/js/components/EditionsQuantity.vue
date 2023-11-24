@@ -30,5 +30,5 @@ export default {};
 .custom_qty {
   width: 4.235801032em;
   text-align: center;
-}
+} 
 </style>
